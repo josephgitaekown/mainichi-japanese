@@ -1,0 +1,302 @@
+[
+  {
+    "day": 1,
+    "title": "あ행 히라가나",
+    "focus": "あ",
+    "reading": "아",
+    "word": "あさ",
+    "meaning": "아침",
+    "example": "あさです。",
+    "translation": "아침입니다."
+  },
+  {
+    "day": 2,
+    "title": "か행 히라가나",
+    "focus": "か",
+    "reading": "카",
+    "word": "かさ",
+    "meaning": "우산",
+    "example": "かさです。",
+    "translation": "우산입니다."
+  },
+  {
+    "day": 3,
+    "title": "さ행 히라가나",
+    "focus": "さ",
+    "reading": "사",
+    "word": "さかな",
+    "meaning": "생선",
+    "example": "さかなです。",
+    "translation": "생선입니다."
+  },
+  {
+    "day": 4,
+    "title": "た행 히라가나",
+    "focus": "た",
+    "reading": "타",
+    "word": "たまご",
+    "meaning": "계란",
+    "example": "たまごです。",
+    "translation": "계란입니다."
+  },
+  {
+    "day": 5,
+    "title": "な행 히라가나",
+    "focus": "な",
+    "reading": "나",
+    "word": "なまえ",
+    "meaning": "이름",
+    "example": "なまえは キムです。",
+    "translation": "이름은 김입니다."
+  },
+  {
+    "day": 6,
+    "title": "は행 히라가나",
+    "focus": "は",
+    "reading": "하",
+    "word": "はな",
+    "meaning": "꽃",
+    "example": "はなが あります。",
+    "translation": "꽃이 있습니다."
+  },
+  {
+    "day": 7,
+    "title": "ま행 히라가나",
+    "focus": "ま",
+    "reading": "마",
+    "word": "まち",
+    "meaning": "마을",
+    "example": "ここは まちです。",
+    "translation": "여기는 마을입니다."
+  },
+  {
+    "day": 8,
+    "title": "や행·ら행·わ행",
+    "focus": "や",
+    "reading": "야",
+    "word": "やま",
+    "meaning": "산",
+    "example": "やまが みえます。",
+    "translation": "산이 보입니다."
+  },
+  {
+    "day": 9,
+    "title": "가타카나 기초",
+    "focus": "ア",
+    "reading": "아",
+    "word": "アイス",
+    "meaning": "아이스크림",
+    "example": "アイスが すきです。",
+    "translation": "아이스크림을 좋아합니다."
+  },
+  {
+    "day": 10,
+    "title": "탁음과 작은 っ",
+    "focus": "が",
+    "reading": "가",
+    "word": "がっこう",
+    "meaning": "학교",
+    "example": "がっこうへ いきます。",
+    "translation": "학교에 갑니다."
+  },
+  {
+    "day": 11,
+    "title": "명사 + です",
+    "focus": "学生",
+    "reading": "がくせい",
+    "word": "学生",
+    "meaning": "학생",
+    "example": "わたしは 学生です。",
+    "translation": "저는 학생입니다."
+  },
+  {
+    "day": 12,
+    "title": "명사 부정 ではありません",
+    "focus": "先生",
+    "reading": "せんせい",
+    "word": "先生",
+    "meaning": "선생님",
+    "example": "わたしは 先生ではありません。",
+    "translation": "저는 선생님이 아닙니다."
+  },
+  {
+    "day": 13,
+    "title": "질문문 ～ですか",
+    "focus": "日本人",
+    "reading": "にほんじん",
+    "word": "日本人",
+    "meaning": "일본인",
+    "example": "日本人ですか。",
+    "translation": "일본인이세요?"
+  },
+  {
+    "day": 14,
+    "title": "지시어 これ・それ・あれ",
+    "focus": "これ",
+    "reading": "고레",
+    "word": "本",
+    "meaning": "책",
+    "example": "これは 本です。",
+    "translation": "이것은 책입니다."
+  },
+  {
+    "day": 15,
+    "title": "조사 は / も",
+    "focus": "友達",
+    "reading": "ともだち",
+    "word": "友達",
+    "meaning": "친구",
+    "example": "わたしも 学生です。",
+    "translation": "저도 학생입니다."
+  },
+  {
+    "day": 16,
+    "title": "조사 の 소유",
+    "focus": "私",
+    "reading": "わたし",
+    "word": "かばん",
+    "meaning": "가방",
+    "example": "これは 私のかばんです。",
+    "translation": "이것은 제 가방입니다."
+  },
+  {
+    "day": 17,
+    "title": "형용사 ～い",
+    "focus": "おいしい",
+    "reading": "오이시이",
+    "word": "おいしい",
+    "meaning": "맛있다",
+    "example": "このパンは おいしいです。",
+    "translation": "이 빵은 맛있습니다."
+  },
+  {
+    "day": 18,
+    "title": "형용사 ～な",
+    "focus": "静か",
+    "reading": "しずか",
+    "word": "静か",
+    "meaning": "조용하다",
+    "example": "このまちは 静かです。",
+    "translation": "이 마을은 조용합니다."
+  },
+  {
+    "day": 19,
+    "title": "좋아하다 ～が好き",
+    "focus": "好き",
+    "reading": "すき",
+    "word": "音楽",
+    "meaning": "음악",
+    "example": "わたしは 音楽が好きです。",
+    "translation": "저는 음악을 좋아합니다."
+  },
+  {
+    "day": 20,
+    "title": "있다 あります / います",
+    "focus": "あります",
+    "reading": "아리마스",
+    "word": "犬",
+    "meaning": "개",
+    "example": "いぬが います。",
+    "translation": "개가 있습니다."
+  },
+  {
+    "day": 21,
+    "title": "장소 ～に / ～で",
+    "focus": "駅",
+    "reading": "えき",
+    "word": "駅",
+    "meaning": "역",
+    "example": "駅で まちます。",
+    "translation": "역에서 기다립니다."
+  },
+  {
+    "day": 22,
+    "title": "동사 ～ます",
+    "focus": "食べます",
+    "reading": "たべます",
+    "word": "ごはん",
+    "meaning": "밥",
+    "example": "ごはんを 食べます。",
+    "translation": "밥을 먹습니다."
+  },
+  {
+    "day": 23,
+    "title": "동사 부정 ～ません",
+    "focus": "飲みません",
+    "reading": "のみません",
+    "word": "水",
+    "meaning": "물",
+    "example": "コーヒーは 飲みません。",
+    "translation": "커피는 마시지 않습니다."
+  },
+  {
+    "day": 24,
+    "title": "동사 과거 ～ました",
+    "focus": "行きました",
+    "reading": "いきました",
+    "word": "昨日",
+    "meaning": "어제",
+    "example": "きのう 学校へ 行きました。",
+    "translation": "어제 학교에 갔습니다."
+  },
+  {
+    "day": 25,
+    "title": "동사 ～て 주세요",
+    "focus": "見て",
+    "reading": "みて",
+    "word": "写真",
+    "meaning": "사진",
+    "example": "写真を 見てください。",
+    "translation": "사진을 봐 주세요."
+  },
+  {
+    "day": 26,
+    "title": "～てもいいですか 허락",
+    "focus": "いいですか",
+    "reading": "이이데스카",
+    "word": "ここ",
+    "meaning": "여기",
+    "example": "ここに すわってもいいですか。",
+    "translation": "여기에 앉아도 될까요?"
+  },
+  {
+    "day": 27,
+    "title": "～たいです 희망",
+    "focus": "行きたい",
+    "reading": "いきたい",
+    "word": "日本",
+    "meaning": "일본",
+    "example": "日本へ 行きたいです。",
+    "translation": "일본에 가고 싶습니다."
+  },
+  {
+    "day": 28,
+    "title": "～から 이유",
+    "focus": "忙しい",
+    "reading": "いそがしい",
+    "word": "今日",
+    "meaning": "오늘",
+    "example": "今日は 忙しいから、行けません。",
+    "translation": "오늘은 바빠서 갈 수 없습니다."
+  },
+  {
+    "day": 29,
+    "title": "～たことがあります 경험",
+    "focus": "旅行",
+    "reading": "りょこう",
+    "word": "京都",
+    "meaning": "교토",
+    "example": "京都へ 行ったことがあります。",
+    "translation": "교토에 가 본 적이 있습니다."
+  },
+  {
+    "day": 30,
+    "title": "회화 종합: 카페 주문",
+    "focus": "ください",
+    "reading": "구다사이",
+    "word": "お茶",
+    "meaning": "차",
+    "example": "お茶を 一つください。",
+    "translation": "차 한 잔 주세요."
+  }
+]
